@@ -1,0 +1,7 @@
+.header {
+  padding: 10px;
+
+  & h1, & h2 {
+    color: var(--primary-blue);
+  }
+}

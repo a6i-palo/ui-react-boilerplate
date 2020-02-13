@@ -1,0 +1,19 @@
+dist
+.next
+.vscode
+.version
+node_modules
+coverage
+logs
+*.log
+npm-debug.log
+package-lock.json
+.nyc_output
+.DS_Store
+
+# IntelliJ
+.idea
+*.iml
+
+# ADR
+.adr-dir

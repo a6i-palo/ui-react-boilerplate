@@ -1,0 +1,19 @@
+:global(#app) {
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+
+  a {
+    color: #880000
+  }
+
+  ul {
+    margin: 0;
+    padding: 0 15px 15px;
+  }
+
+  li {
+    display: block;
+    list-style: none;
+    margin-bottom: 10px;
+  }
+}
